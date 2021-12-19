@@ -41151,6 +41151,33 @@
       "setIdx": 2,
       "setId": 2,
       "iconIdx": 844
+    },
+    {
+      "icon": {
+        "paths": [
+          "M52.67,856.5c.88,7.39,5,11.79,12.13,12.24V877c-4.15.4-7.78-1-12-3.5v15.52c0,19.74-21.52,25.89-30.15,11.76-5.56-9.09-2.15-25.08,15.68-25.7v8.77a27.54,27.54,0,0,0-4.12,1c-4,1.33-6.2,3.86-5.58,8.29,1.21,8.49,16.78,11,15.48-5.58V856.53h8.6Z"
+        ],
+        "attrs": [],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "tags": [
+          "tiktok"
+        ],
+        "defaultCode": 62177,
+        "grid": 24
+      },
+      "attrs": [],
+      "properties": {
+        "ligatures": "tiktok",
+        "id": 845,
+        "order": 856,
+        "prevSize": 24,
+        "code": 62177,
+        "name": "tiktok"
+      },
+      "setIdx": 2,
+      "setId": 2,
+      "iconIdx": 845
     }
   ],
   "height": 1024,

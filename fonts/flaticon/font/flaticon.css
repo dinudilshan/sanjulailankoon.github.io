@@ -1,6 +1,6 @@
 	/*
   	Flaticon icon font: Flaticon
-  	Creation date: 03/04/2019 06:02
+  	Creation date: 11/02/2019 11:47
   	*/
 
 @font-face {
@@ -36,9 +36,9 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.flaticon-startup:before { content: "\f100"; }
-.flaticon-graphic-design:before { content: "\f101"; }
-.flaticon-settings:before { content: "\f102"; }
-.flaticon-idea:before { content: "\f103"; }
-.flaticon-smartphone:before { content: "\f104"; }
-.flaticon-head:before { content: "\f105"; }
+.flaticon-mexican-taco:before { content: "\f100"; }
+.flaticon-house:before { content: "\f101"; }
+.flaticon-guitar:before { content: "\f102"; }
+.flaticon-gym:before { content: "\f103"; }
+.flaticon-shopping-bag:before { content: "\f104"; }
+.flaticon-cocktail:before { content: "\f105"; }
